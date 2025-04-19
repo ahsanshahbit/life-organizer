@@ -9,8 +9,5 @@ A productivity web app that helps you manage tasks with smart prioritization.
 - 📊 Visual progress tracker  
 - 🌓 Dark mode for night owls  
 
-## 🚀 Try It Now
-Live demo: [https://your-username.github.io/life-organizer/](https://your-username.github.io/life-organizer/)
 
----
 
