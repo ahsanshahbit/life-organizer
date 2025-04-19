@@ -1,2 +1,16 @@
 # life-organizer
-AI Life Organizer 🌟 A smart daily task manager that helps you prioritize, track, and complete goals with ease  Key Features: ✅ Intelligent Task Prioritization - Auto-sorts by priority (High/Medium/Low) ✅ Progress Tracking - Visual completion meter with percentage ✅ Dark/Light Mode - Eye-friendly theme switching ✅ 
+# AI Daily Organizer 🌈
+
+A productivity web app that helps you manage tasks with smart prioritization.
+
+## ✨ Key Features
+- 📝 Add tasks with categories (Work/Personal/Health)  
+- ⏱️ Set durations in minutes  
+- 📊 Visual progress tracker  
+- 🌓 Dark mode for night owls  
+
+## 🚀 Try It Now
+Live demo: [https://your-username.github.io/life-organizer/](https://your-username.github.io/life-organizer/)
+
+---
+
